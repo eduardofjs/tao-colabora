@@ -21,7 +21,7 @@ export default function Home() {
       </main>
 
       <footer>
-        Feito com ❤ por <a href="https://colaborai9lab.com.br"> Colabora Lab</a>
+        <a href="https://colaborai9lab.com.br">Feito com ❤ por Colabora Lab</a>
       </footer>
 
       <style jsx>{`
