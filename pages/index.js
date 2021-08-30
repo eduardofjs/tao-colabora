@@ -10,7 +10,7 @@ export default function Home() {
 
       <main>
         <h1 className="title">
-          Site em desenvolvimento por <a href="https://colborai9lab.com.br">Colabora Lab</a>
+          Site em desenvolvimento por <a href="https://colaborai9lab.com.br">Colabora Lab</a>
         </h1>
 
         <p className="description">
@@ -21,7 +21,7 @@ export default function Home() {
       </main>
 
       <footer>
-        Feito com ❤ por <a href="https://colborai9lab.com.br"> Colabora Lab</a>
+        Feito com ❤ por <a href="https://colaborai9lab.com.br"> Colabora Lab</a>
       </footer>
 
       <style jsx>{`
